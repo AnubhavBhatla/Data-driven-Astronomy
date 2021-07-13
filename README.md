@@ -1,15 +1,15 @@
 # Data-driven-Astronomy
 A repository for updating my progress on the given weekly assignments
 
-Week 0 : Basic Python<br />
+<b>Week 0 : Basic Python</b><br />
 &nbsp;&nbsp;A week of learning basic Python syntax and familiarising with Python libraries such as NumPy and MatPlotlib
 
-Week 1 : Assignment based on basic Python<br />
+<b>Week 1 : Assignment based on basic Python</b><br />
 &nbsp;&nbsp;a) Plotting a histogram of randomly rolling a pair of dice<br />
 &nbsp;&nbsp;b) Thought-provoking question<br />
 &nbsp;&nbsp;c) Sorting a given list<br />
 
-Week 2-4 : Data-Driven Astronomy on Coursera<br />
+<b>Week 2-4 : Data-Driven Astronomy on Coursera</b><br />
 &nbsp;&nbsp;Week - 1 :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a) Description of Pulsars<br />
 &nbsp;&nbsp;&nbsp;&nbsp;b) Introduction to packages such as Astropy and SciPy<br />
@@ -47,7 +47,7 @@ Week 2-4 : Data-Driven Astronomy on Coursera<br />
 &nbsp;&nbsp;&nbsp;&nbsp;b) Decision Tree Classifiers<br />
 &nbsp;&nbsp;&nbsp;&nbsp;c) Random forest Classification<br />
     
-Week - 5-6 : Basics of Digital Imaging on planetary.org<br />
+<b>Week 5-6 : Basics of Digital Imaging on planetary.org</b><br />
 &nbsp;&nbsp;Lesson - 1 :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a) Definitions of pixels and pixel values<br />
 &nbsp;&nbsp;&nbsp;&nbsp;b) Adjustment Layers (Brightness and Contrast)<br />
