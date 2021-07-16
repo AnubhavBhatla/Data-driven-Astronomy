@@ -14,7 +14,7 @@ A repository for updating my progress on the given weekly assignments
 &nbsp;&nbsp;&nbsp;&nbsp;a) Description of Pulsars<br />
 &nbsp;&nbsp;&nbsp;&nbsp;b) Introduction to packages such as Astropy and SciPy<br />
 &nbsp;&nbsp;&nbsp;&nbsp;c) Reading NumPy arrays from a CSV file<br />
-&nbsp;&nbsp;&nbsp;&nbsp;d) Calcualting mean of datasets<br />
+&nbsp;&nbsp;&nbsp;&nbsp;d) Calculating mean of datasets<br />
 &nbsp;&nbsp;&nbsp;&nbsp;e) Working with FITS files<br />
 &nbsp;&nbsp;&nbsp;&nbsp;f) Plotting FITS images and finding the mean of a set of FITS files<br />
     
@@ -63,17 +63,23 @@ A repository for updating my progress on the given weekly assignments
     
 &nbsp;&nbsp;Lesson - 3 :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a) Different definitions of Image Integrity for journalists and scientists<br />
-&nbsp;&nbsp;&nbsp;&nbsp;b) Manually creating mosaics<br />
+&nbsp;&nbsp;&nbsp;&nbsp;b) Tools to repair blemishes<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Pencil tool<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Paintbrush tool<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Clone Stamp tool<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Healing Brush<br />
+&nbsp;&nbsp;&nbsp;&nbsp;c) Manually creating mosaics<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a layer mask and paintbrush tool
     
 &nbsp;&nbsp;Lesson - 4 :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a) Light levels in space<br />
 &nbsp;&nbsp;&nbsp;&nbsp;b) Definitions of exposure and aperture<br />
 &nbsp;&nbsp;&nbsp;&nbsp;c) Problems with overexposing and underexposing<br />
-&nbsp;&nbsp;&nbsp;&nbsp;d) Different surface reflactances of celestial objects<br />
+&nbsp;&nbsp;&nbsp;&nbsp;d) Different surface reflectances of celestial objects<br />
     
 &nbsp;&nbsp;Lesson - 5 :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a) Different file formats<br />
-&nbsp;&nbsp;&nbsp;&nbsp;b) How data compression works<br />
+&nbsp;&nbsp;&nbsp;&nbsp;b) How does data compression work?<br />
     
 &nbsp;&nbsp;Lesson - 6 :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a) Importance of resampling<br />
