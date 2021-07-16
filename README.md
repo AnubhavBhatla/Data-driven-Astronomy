@@ -57,7 +57,7 @@ A repository for updating my progress on the given weekly assignments
   
 &nbsp;&nbsp;Lesson - 2 :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a) Bit depth<br />
-&nbsp;&nbsp;&nbsp;&nbsp;b) Differencesbetween 8-bit and 16-bit images<br />
+&nbsp;&nbsp;&nbsp;&nbsp;b) Differences between 8-bit and 16-bit images<br />
 &nbsp;&nbsp;&nbsp;&nbsp;c) Histograms<br />
 &nbsp;&nbsp;&nbsp;&nbsp;d) Adjusting levels or Histogram stretching<br />
     
